@@ -1,4 +1,4 @@
-# TrafficSignRecognition_PyTorch
+# Traffic Sign Recognition using PyTorch
 
 <div align="center">
     <img src="trafficsign.jpeg" alt="Logo" width="400" height="400">
